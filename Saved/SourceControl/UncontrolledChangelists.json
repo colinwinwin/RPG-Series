@@ -1,0 +1,32 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"E:/RPG_Tutorial_Series/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"E:/RPG_Tutorial_Series/Content/Characters/RPG_Character/Animations/Locomotion/Idle_Break.uasset",
+				"E:/RPG_Tutorial_Series/Content/Characters/RPG_Character/Animations/Locomotion/Walk_Stop.uasset",
+				"E:/RPG_Tutorial_Series/Content/Characters/RPG_Character/Animations/Crouched/Crouh_Walk.uasset",
+				"E:/RPG_Tutorial_Series/Content/Characters/RPG_Character/Animations/Crouched/Crouch_Idle.uasset",
+				"E:/RPG_Tutorial_Series/Content/Characters/RPG_Character/Animations/Locomotion/LocomotionBlendSpace1D.uasset",
+				"E:/RPG_Tutorial_Series/Content/Characters/RPG_Character/Animations/ABP_RPGCharacter.uasset",
+				"E:/RPG_Tutorial_Series/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"E:/RPG_Tutorial_Series/Content/Characters/RPG_Character/Animations/Crouched/CrouchedBlendSpace1D.uasset",
+				"E:/RPG_Tutorial_Series/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"E:/RPG_Tutorial_Series/Content/Characters/RPG_Character/Animations/Lean/Lean_Left.uasset",
+				"E:/RPG_Tutorial_Series/Content/Characters/RPG_Character/Animations/Lean/Lean_Right.uasset",
+				"E:/RPG_Tutorial_Series/Content/Characters/RPG_Character/Animations/Lean/LeanBlendSpace1D.uasset",
+				"E:/RPG_Tutorial_Series/Content/ThirdPerson/Input/Actions/IA_Crouched.uasset",
+				"E:/RPG_Tutorial_Series/Content/Characters/Mannequins/Materials/Instances/Manny/Manny_Blue1.uasset",
+				"E:/RPG_Tutorial_Series/Content/Characters/Mannequins/Materials/Instances/Manny/Manny_Blue2.uasset",
+				"E:/RPG_Tutorial_Series/Content/Characters/RPG_Character/Animations/Vaulting/VaultOver.uasset",
+				"E:/RPG_Tutorial_Series/Content/Characters/RPG_Character/Animations/Vaulting/VaultOver_Montage.uasset",
+				"E:/RPG_Tutorial_Series/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/IR/UA55LYHHXPKR48527RCLP9.uasset",
+				"E:/RPG_Tutorial_Series/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/IX/UKXO1J7H3JC1KUL2OPF435.uasset",
+				"E:/RPG_Tutorial_Series/Content/Characters/RPG_Character/Animations/ABP_RPGCharacrter.uasset"
+			]
+		}
+	]
+}
